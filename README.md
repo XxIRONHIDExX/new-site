@@ -25,20 +25,20 @@ Syntax highlighted code block
         </style>
     </head>
     <body>
-        <img src='images/hash.jpg'
+        <img src='images/5.jpg'
         <br/>
         <hr/>
         <h1><font 
             size ="10"
             face ="verdana"
             color = "red">
-                Hashiram Senju
+                Sofy Torn
         </font></h1>
         <h2><font
                     size ="8"
                     face ="sans"
                     color ="brown">
-                    Hashirama Senju was the leader of Senju Clan and was one of the founder of the Konohagakure (Village Hidden in the Leaves) as well its First Hokage. He was also the mentor of the Third Hokage, Hiruzen Sarutobi
+                    Yen boys yen samachara
         </font></h2>
         <br/>
     </body>
