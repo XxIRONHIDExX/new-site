@@ -11,6 +11,39 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Senju</title>
+        <style>
+            img{
+                width: 500px;
+                height: 400px;
+                border-radius: 15px;
+                float: middle;
+            }
+        </style>
+    </head>
+    <body>
+        <img src='images/hash.jpg'
+        <br/>
+        <hr/>
+        <h1><font 
+            size ="10"
+            face ="verdana"
+            color = "red">
+                Hashiram Senju
+        </font></h1>
+        <h2><font
+                    size ="8"
+                    face ="sans"
+                    color ="brown">
+                    Hashirama Senju was the leader of Senju Clan and was one of the founder of the Konohagakure (Village Hidden in the Leaves) as well its First Hokage. He was also the mentor of the Third Hokage, Hiruzen Sarutobi
+        </font></h2>
+        <br/>
+    </body>
+</html>
+
 # Header 1
 ## Header 2
 ### Header 3
